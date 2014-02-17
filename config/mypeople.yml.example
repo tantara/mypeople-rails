@@ -1,0 +1,10 @@
+# Mypeople API
+#   refer to "http://dna.daum.net/apis/mypeople"
+development: &base
+    host: "https://apis.daum.net"
+    key: "MYPEOPLE_API_KEY"
+
+test:
+    <<: *base
+production:
+    <<: *base
