@@ -17,3 +17,4 @@
 
 # api key
 /config/mypeople.yml
+*.swp

@@ -45,4 +45,4 @@ end
 # gem 'debugger', group: [:development, :test]
 
 gem 'thin'
-gem 'mypeople', '~> 0.0.3'
+gem 'mypeople', '~> 0.0.4'
